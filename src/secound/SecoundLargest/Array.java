@@ -1,4 +1,4 @@
-package SecoundLargest;
+package secound.SecoundLargest;
 
 import java.util.Scanner;
 
