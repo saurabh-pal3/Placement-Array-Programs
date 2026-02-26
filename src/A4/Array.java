@@ -13,7 +13,7 @@ public class Array
 			{
 				if(arr[i]==arr[j])
 				{
-					System.out.println("Dupicate Elemet: "+arr[j]);
+					System.out.println("Dupicate Remove: "+arr[j]);
 				}
 			}
 		}
