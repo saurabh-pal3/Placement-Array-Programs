@@ -4,7 +4,7 @@ public class Array
 {
 	public static void main(String[] args)
 	{
-		 int[] arr = {1, 1, 0, 1, 1, 1};
+		 int[] arr = {1, 1, 0, 1, 1, 1,1};
 		 
 		 int currentCount=0;
 		 int maxCount=0;
@@ -18,10 +18,11 @@ public class Array
 				 {
 					 maxCount=currentCount;
 				 }
-				 else
-				 {
-					 currentCount=0;
-				 }
+				
+			 }
+			 else
+			 {
+				 currentCount=0;
 			 }
 		 }
 		 
