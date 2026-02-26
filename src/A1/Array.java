@@ -1,4 +1,4 @@
-package first.Largest.Element.Array;
+package A1;
 
 import java.util.Scanner;
 

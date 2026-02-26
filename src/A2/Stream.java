@@ -1,4 +1,4 @@
-package secound.SecoundLargest;
+package A2;
 
 import java.util.ArrayList;
 import java.util.Collections;

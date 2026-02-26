@@ -1,4 +1,4 @@
-package third.array.shorting;
+package A3;
 
 import java.util.Scanner;
 

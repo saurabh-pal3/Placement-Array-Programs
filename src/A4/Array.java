@@ -1,4 +1,4 @@
-package four.remove.duplicate;
+package A4;
 
 public class Array
 {

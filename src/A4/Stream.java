@@ -1,4 +1,4 @@
-package four.remove.duplicate;
+package A4;
 
 import java.util.Arrays;
 import java.util.stream.IntStream;
